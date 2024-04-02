@@ -1,8 +1,8 @@
-.flex-container{
+.header-flex-container2{
     display:flex;
     justify-content: flex-end;
 }
 
-.flex-container{
+.header-flex-container2{
     gap:20px;
 }
