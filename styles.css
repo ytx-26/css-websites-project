@@ -6,3 +6,16 @@
 .header-flex-container2{
     gap:20px;
 }
+
+
+.header-flex-container1{
+    display:flex;
+    justify-content: flex-start;
+    height:50px;
+    width:50px;
+}
+
+.logo-img{
+    height:50px;
+    width:50px;
+}
