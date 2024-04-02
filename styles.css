@@ -1,9 +1,8 @@
 .flex-container{
     display:flex;
+    justify-content: flex-end;
 }
 
 .flex-container div{
     margin: 20px;
 }
-
-
