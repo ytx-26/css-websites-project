@@ -3,6 +3,6 @@
     justify-content: flex-end;
 }
 
-.flex-container div{
-    margin: 20px;
+.flex-container{
+    gap:20px;
 }
