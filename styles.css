@@ -1,17 +1,34 @@
-.header-flex-container2{
-    height:auto;
-    width: 75px;
-    gap: 10px;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+  }
+
+  .container{/* main container*/
     display:flex;
-    justify-content: flex-end;
-    flex-flow: wrap;
-    background-color: blue;
-    flex-shrink: 2;
+    background-color: #1F2937;
+    justify-content: space-between; /* I use space between as it distriubtes the two flex-containers
+    with even space between them, also as there are only two items they can sit flush on each end */
+  }
 
-}
+  .right-container{/* */
+    display:flex;/* */
+    gap:25px;/*sets the distance for the children*/
+    align-items:center;/* makes it on the center in the vertical axis */
+    margin-right: 20px;/* moves it 20px from the right */
+    color:aliceblue;
+  }
 
-.logo-img{
-    height:50px;
-    width:50px;
-    background-color: brown;
-}
+  .container img{
+    width:75px;
+    height: 75px;
+    margin-left: 20px;/*moves the image 20px from the left */
+  }
+
+
+
+
+
+
+
