@@ -36,6 +36,10 @@
     height: 200px;
   }
 
+  .second-header-container{
+    display:flex;
+    flex-direction: column;
+  }
 
 
 
