@@ -1,21 +1,17 @@
 .header-flex-container2{
+    height:auto;
+    width: 75px;
+    gap: 10px;
     display:flex;
     justify-content: flex-end;
-}
+    flex-flow: wrap;
+    background-color: blue;
+    flex-shrink: 2;
 
-.header-flex-container2{
-    gap:20px;
-}
-
-
-.header-flex-container1{
-    display:flex;
-    justify-content: flex-start;
-    height:50px;
-    width:50px;
 }
 
 .logo-img{
     height:50px;
     width:50px;
+    background-color: brown;
 }
