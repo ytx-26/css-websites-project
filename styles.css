@@ -26,6 +26,15 @@
     margin-left: 20px;/*moves the image 20px from the left */
   }
 
+  .second-container{
+    background-color: blue;
+  }
+
+  /*second section*/
+  .blankpfp{
+    width: 200px;
+    height: 100px;
+  }
 
 
 
