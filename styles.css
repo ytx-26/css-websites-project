@@ -44,18 +44,14 @@
   }
 
   #one{      
-      width: 22em;      
-      background-color: lightblue;       
-      border: 2px solid black;      
+      width: 22em;                
       padding: 10px;      
       word-wrap: break-word;      
       font-size: 20px;       
   }
 
   #two{
-      width: 30em;      
-      background-color: lightblue;       
-      border: 2px solid black;      
+      width: 30em;           
       padding: 10px;      
       word-wrap: break-word;      
       font-size: 20px; 
