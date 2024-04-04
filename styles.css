@@ -34,12 +34,26 @@
   .blankpfp{
     width: 200px;
     height: 200px;
+    margin-right: 35px;
+  }
+
+  .second-container{
+    display:flex;
+    flex-direction: column;
   }
 
   .second-header-container{
     display:flex;
     flex-direction: column;
+    background-color: black;
   }
+
+  .second-header-container-img{
+    display:flex;
+    flex-direction: column;
+  }
+
+
 
 
 
