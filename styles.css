@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: Helvetica, sans-serif;
+    color:aliceblue;
   }
 
   .container{/* main container*/
@@ -39,6 +40,7 @@
 
   .paragraph{
     display:flex;
+    color:aliceblue;
   }
 
   #one{      
@@ -60,7 +62,7 @@
   }
 
   .image{
-    max-width: 50%;
+    max-width: 45%;
     height: auto;
     align-items: center;
   }
