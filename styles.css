@@ -31,31 +31,40 @@
   }
 
   /*second section*/
-  .blankpfp{
-    width: 200px;
-    height: 200px;
-    margin-right: 35px;
+
+
+  .second-container-header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
   }
 
-  .second-container{
+  .paragraph{
     display:flex;
-    flex-direction: column;
   }
 
-  .second-header-container{
-    display:flex;
-    flex-direction: column;
+  #one{
     background-color: black;
+    width:50px;
+    height: 50px;
   }
 
-  .second-header-container-img{
-    display:flex;
-    flex-direction: column;
+  #two{
+    background-color:green ;
+    width:50px;
+    height: 50px;
   }
 
+  #three{
+    background-color:blue;
+    width:50px;
+    height: 50px;
+  }
 
-
-
-
-
-
+  .image{
+    background-color:purple;
+    width:100px;
+    height: 50px;
+    align-items: center;
+  }
