@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     font-family: Helvetica, sans-serif;
-    color:aliceblue;
   }
 
   .container{/* main container*/
@@ -47,7 +46,8 @@
       width: 22em;                
       padding: 10px;      
       word-wrap: break-word;      
-      font-size: 20px;       
+      font-size: 20px; 
+      color:aliceblue;    
   }
 
   #two{
@@ -55,6 +55,7 @@
       padding: 10px;      
       word-wrap: break-word;      
       font-size: 20px; 
+      color:aliceblue;
   }
 
   #three{
@@ -65,4 +66,5 @@
     max-width: 45%;
     height: auto;
     align-items: center;
+    margin-right: 50px;
   }
