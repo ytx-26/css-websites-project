@@ -80,9 +80,17 @@
    }
 
    .content-one{
-    background-color:black;
     display:flex;
    }
 
+   .box-container{
+    display:flex;
+   }
+
+   .blue-box{
+    width: 100px;
+    height:100px;
+    border: 5px solid blue;
+   }
 
 
