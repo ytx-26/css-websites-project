@@ -57,6 +57,8 @@
   }
 
   #three{
+    padding:0px;
+    text-align: center;
     border-radius:8px;
     border:none;
     background-color: #3882f6;
