@@ -73,6 +73,13 @@
   }
 
    /*third section*/
-   
+   .third-container{
+    display:flex;
+   }
+
+   .content-one{ 
+    text-align:center;
+   }
+
 
 
