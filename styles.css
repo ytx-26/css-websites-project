@@ -97,6 +97,10 @@
    }
 
    /*fourth section*/
+
+   .container-four{
+    display:flex;
+   }
    .text{
    }
 
