@@ -89,4 +89,8 @@
     border: 5px solid black;
    }
 
+   .box-container{
+    display:flex;
+   }
+
 
