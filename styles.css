@@ -74,6 +74,7 @@
 
    /*third section*/
    .third-container{
+    background-color: blue;
     display:flex;
    }
 
