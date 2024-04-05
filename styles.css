@@ -100,6 +100,7 @@
 
    .container-four{
     display:flex;
+    justify-content: center;
    }
    .text{
    }
