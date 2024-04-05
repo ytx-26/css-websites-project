@@ -59,7 +59,7 @@
   #three{
     padding:0px;
     text-align: center;  /*text aligns itself to the middle of background*/
-    border-radius:8px;
+    border-radius:8px; /*rounds edges*/
     border:none;
     background-color: #3882f6;
     width:15%;
