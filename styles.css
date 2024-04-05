@@ -44,7 +44,7 @@
 
   #one{      
       width: 22em;                     
-      word-wrap: break-word;      
+      word-wrap: break-word;  /*makes word go onto new line if container is small*/  
       font-size: 20px; 
       color:aliceblue;    
   }
@@ -58,7 +58,7 @@
 
   #three{
     padding:0px;
-    text-align: center;
+    text-align: center;  /*text aligns itself to the middle of background*/
     border-radius:8px;
     border:none;
     background-color: #3882f6;
@@ -71,3 +71,8 @@
     align-items: center;
     margin-right: 50px;
   }
+
+   /*third section*/
+   
+
+
