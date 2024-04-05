@@ -76,6 +76,12 @@
    .third-container{
     background-color: blue;
     display:flex;
+    justify-content: center;
+   }
+
+   .content-one{
+    background-color:black;
+    display:flex;
    }
 
 
