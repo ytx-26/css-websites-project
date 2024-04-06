@@ -113,7 +113,8 @@
 
    .container{
     display:flex;
-    
+    justify-content: flex-end;
+
    }
    .subtext{
     font-size:30px;
