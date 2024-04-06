@@ -102,6 +102,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    background-color: #e5e7eb;
    }
    .text{
     text-align:center;
@@ -114,13 +115,13 @@
    .container-five{
     display:flex;
     justify-content: flex-end;
-    background-color: #1F2937;
+    background-color: #e5e7eb;
 
    }
    .subtext{
     font-size:30px;
     font-weight: bold;
-    background-color: aqua;
+    background-color: #e5e7eb;
     padding: 0px 400px 0px 0px;
    }
 
