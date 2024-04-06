@@ -114,11 +114,13 @@
    .container{
     display:flex;
     justify-content: flex-end;
+    background-color: #1F2937;
 
    }
    .subtext{
     font-size:30px;
     font-weight: bold;
+    background-color: aqua;
    }
 
 
