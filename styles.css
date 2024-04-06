@@ -134,7 +134,7 @@
 
    .container-six-container{
     display:flex;
-    
+    align-items:center;
    }
 
 
